@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Satisfy&display=swap');
+*{
+    margin: 0%;
+    padding:0%;
+}
+.div{
+    height:100%;
+    background-image: url('btsimg.jpeg');
+    
+}
+.jhope{
+    /* background-color: purple; */
+    width:100%;
+    height:100%;
+}
+#title{
+    background-color:#EE82EE;
+    color:aqua;
+   margin-left: 2px;
+   background-image: url('btsimg.jpeg');
+}
+.welcome{
+    font-family: 'Montserrat-Black 900', sans-serif;;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-top: 2%;
+    margin-left: 16%;
+    color:rgb(255, 0, 119);
+}
+
+.world{
+    font-weight: bold;
+    font-family: ''Montserrat-Black 900'', cursive;
+    color:rgb(255, 0, 119);
+    margin-left: 17%;
+    font-size:2rem;
+}
+img{
+    margin-top:2rem;
+}
+nav{
+    margin-left: 20px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    color:rgb(255, 0, 119);
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'ubantu';
+}
+
+.nav-item{
+    margin-right: 1rem;
+}
+.nav-link{
+    color:rgb(255, 0, 119);
+    font-size:1.5rem;
+    font-family: 'Montserrat-light';
+}
+.v{
+    background-image: url('vwithbvg.jpg');
+    height:100%;
+    width:100%;
+    color:white;
+    margin-right:20px;
+}
+.vdiv{
+    position:relative;
+    /* margin-left:45%; */
+    
+    float: right;
+}
+.rm{
+    height:70%;
+    width:80%;
+}
+.jimin{
+    height:60%;
+    width:70%;
+}
+/* .jiminbts{
+    background-image: url('bts-jimin.jpg');
+    height:100%;
+    width:100%;
+    color:white;
+    margin-right:20px;
+
+} */
+.jin{
+    height:80%;
+    width:70%;
+    
+}
+.jungkook{
+    border-radius: 100%;
+    height:25rem;
+}
+@media(max-width: 1028px){
+
+}
+.footer{
+    text-align: center;
+    margin:3rem;
+}
